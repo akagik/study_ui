@@ -43,6 +43,7 @@ sysinfo.txt
 
 # visual studio
 .vs
+.vscode
 
 # bin
 /bin/*
